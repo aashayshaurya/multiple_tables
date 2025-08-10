@@ -22,7 +22,7 @@ The dataset contains customer demographics, product details, product categories,
 
 
 
-## Database Schema
+## Database Scheme
 **customer**
 - `customer_id` (TEXT, Primary Key, Unique)
 - `gender` (TEXT)
